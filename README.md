@@ -1,7 +1,7 @@
 # CLEF eHealth: TAR in Empirical Medicine 
 
-Two runs for training set.
+Two runs for test set.
 
-simple: does not have a stop rule.
+simple_test: does not have a stop rule.
 
-abs: has a stop rule.
+abs_test: has a stop rule.
